@@ -5,7 +5,7 @@
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=likefr&label=Profile%20views&color=0e75b6&style=flat" alt="likefr" /> </p>
 
 <p align="left"> <a href="https ://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=likefr" alt="likefr" />< /a> </p>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=likefr)](https://github.com/likefr/github-readme-stats)
+  
 - 🔭 我目前正在做**洪庚导航**
 
 - 📝 我经常在 [likefr.com](likefr.com) 上写文章
