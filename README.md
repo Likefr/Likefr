@@ -1,11 +1,9 @@
 <p align="center"><img src="github-header-image (1).png"></p>
 <h1 align="center">嗨👋，我是Likefr</h1>
-<h3 align="center">我来自福建省龙岩市</h3>
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=likefr&label=Profile%20views&color=0e75b6&style=flat" alt="likefr" /> </p>
 
   
-- 🔭 我目前在**洪庚导航**
 
 - 📝 我经常在 [likefr.com](likefr.com) 上写文章
 
