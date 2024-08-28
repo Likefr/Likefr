@@ -5,7 +5,7 @@
 
   
 
-- 📝 我经常在 [likefr.com](likefr.com) 上写文章
+- 📝 我经常在 [likefr.com](http://likefr.com) 上写文章
 
 - 📫 如何联系我 **likefr@foxmail .com**
 
