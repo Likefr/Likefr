@@ -2,9 +2,9 @@
 
 <h1 align="center">嗨 👋，我是 Likefr</h1>
 
-<p align="center">
+<!-- <p align="center">
   <em>迷失的人迷失了，相逢的人会再相逢</em>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=likefr&label=Profile%20views&color=0e75b6&style=flat" alt="likefr" />
